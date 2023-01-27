@@ -2,7 +2,7 @@
 
 ## User Story
 
-This is a work scheduler that allows you to save information within the scheduler. The time of the day is color coded based indicating if it is past, present, or future based on the current hour of the day. This app also utilizes day.js as well as jquery.
+This is a work scheduler that allows you to save information within the scheduler. The time of the day is color coded indicating if it is past, present, or future based on the current hour of the day. This app also utilizes day.js as well as jquery.
 
 https://ecalmrd.github.io/Module_5_Challenge/
 
